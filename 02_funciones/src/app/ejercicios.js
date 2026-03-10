@@ -83,3 +83,5 @@ console.log(totalEdades);
 const palabras = ["Hola", "mundo", "desde", "JavaScript"];
 const frase = palabras.reduce((acc, palabra) => acc + " " + palabra);
 console.log(frase);
+
+//
